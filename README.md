@@ -122,6 +122,7 @@ Specialized providers offering on-demand GPU clusters, serverless inference, and
 * 🟢 [Cudo Compute](https://www.cudocompute.com/) - Offers decentralized cloud computing with GPU support for AI applications.
 * 🟡 [Dapple](https://dapple.co/) - Offers an Enterprise OS Cloud that aggregates global GPU supply for regulated enterprises, ensuring strict isolation, residency, and compliance.
 * 🟢 [Datacrunch.io](https://datacrunch.io/) - Provides affordable GPU cloud services for AI training and inference.
+* 🟡 [EverXCloud](https://everxcloud.ai/en) - Rents cloud GPUs by the hour from reviewed data centers and GPU owners, invoiced by a US merchant of record.
 * 🟢 [Fal.ai](https://fal.ai/) - Provides serverless GPU inference for AI models with instant deployment.
 * 🟢 [FluidStack](https://www.fluidstack.io/) - Offers decentralized GPU cloud computing for AI and rendering workloads.
 * 🟢 [Fractile](https://www.fractile.ai/) - Provides specialized hardware processors for AI model inference, delivering up to 25x faster performance and 1/10th the cost for frontier model deployments.
